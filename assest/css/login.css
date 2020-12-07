@@ -1,0 +1,67 @@
+.solc-box{
+    padding-top: 15rem;
+}
+
+.login-box{
+    padding-top: 10rem;
+}
+
+.nameSocial h1{
+    coloR:#1877f2;
+    font-size: 5em;
+    font-family: 'Lobster', cursive;
+}
+.sipnoSocial h2{
+    /* coloR:#1877f2; */
+    font-size: 2em;
+    /* font-family: 'Dancing Script', cursive; */
+}
+
+.form-login{
+    background-color: #FFFFFF;
+    border-radius: 1em;
+    box-shadow: 0px 0px 5px 0px #E6E6E6;
+    padding: 2rem;
+}
+
+.modal-header h1{
+    /* font-size: 5em; */
+    /* font-family: 'Lobster', cursive; */
+}
+
+.rapido{
+    font-size: 1.5em;
+    /* font-family: 'Dancing Script', cursive; */
+}
+
+.home-head-color{
+    background-color:#1877f2;
+    color: #000000;
+}
+.navbar-inverse .navbar-nav>li>a{
+    background-color:#1877f2;
+    color: #ffffff;
+}
+
+.shadow-textarea{
+    background-color: #ffffff;
+    border-radius: 1em 1em 0 0;
+    /* padding: 1em 2em 1em 2em; */
+}
+.shadow-textarea label{
+    background-color: #BDBDBD;
+    border-radius: 1em 0 0 0;
+    padding: 1em 2em 1em 2em;
+}
+
+
+.pub{
+    padding-top: 1em;
+}
+.social_web{
+    color: #ffffff;
+}
+
+#error{
+    color: red;
+}
